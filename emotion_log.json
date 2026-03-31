@@ -1,1 +1,1706 @@
-[]
+[
+  {
+    "timestamp": "2026-03-31T15:52:49.633423",
+    "emotion": "sad",
+    "confidence": 0.6129911541938782,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:52:50.026433",
+    "emotion": "happy",
+    "confidence": 0.528428316116333,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:52:50.070902",
+    "emotion": "neutral",
+    "confidence": 0.6695907115936279,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:52:50.420284",
+    "emotion": "sad",
+    "confidence": 0.3586932122707367,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:52:50.467445",
+    "emotion": "neutral",
+    "confidence": 0.5183646933180435,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:52:50.847287",
+    "emotion": "neutral",
+    "confidence": 0.6298022975166144,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:52:51.289948",
+    "emotion": "sad",
+    "confidence": 0.4533061314203667,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:52:51.614431",
+    "emotion": "neutral",
+    "confidence": 0.37207718515519517,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:52:52.003758",
+    "emotion": "neutral",
+    "confidence": 0.5262918517022181,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:52:52.392230",
+    "emotion": "neutral",
+    "confidence": 0.6064932538010053,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:52:52.868380",
+    "emotion": "neutral",
+    "confidence": 0.47550334767796654,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:52:53.339096",
+    "emotion": "neutral",
+    "confidence": 0.5722597011503805,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:52:53.765683",
+    "emotion": "neutral",
+    "confidence": 0.504145674269377,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:52:53.813902",
+    "emotion": "neutral",
+    "confidence": 0.5834454704687734,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:52:54.266018",
+    "emotion": "neutral",
+    "confidence": 0.5041706391835443,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:52:54.314037",
+    "emotion": "neutral",
+    "confidence": 0.5741849863072648,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:52:54.800985",
+    "emotion": "neutral",
+    "confidence": 0.6283594682717812,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:52:55.234150",
+    "emotion": "neutral",
+    "confidence": 0.5455406169626302,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:52:55.283878",
+    "emotion": "neutral",
+    "confidence": 0.5988913190126748,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:52:55.773300",
+    "emotion": "neutral",
+    "confidence": 0.642136637532694,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:52:56.240518",
+    "emotion": "neutral",
+    "confidence": 0.6738563237224253,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:52:56.710560",
+    "emotion": "neutral",
+    "confidence": 0.6926566196882151,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:52:57.206362",
+    "emotion": "neutral",
+    "confidence": 0.7074433263175302,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:52:57.684609",
+    "emotion": "neutral",
+    "confidence": 0.7265238215373154,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:52:58.176769",
+    "emotion": "neutral",
+    "confidence": 0.7399958197534693,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:52:58.682673",
+    "emotion": "neutral",
+    "confidence": 0.7585464367908543,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:52:59.182897",
+    "emotion": "neutral",
+    "confidence": 0.7753379532040938,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:52:59.681459",
+    "emotion": "neutral",
+    "confidence": 0.7848788529329631,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:00.178781",
+    "emotion": "neutral",
+    "confidence": 0.7985305594394941,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:00.685040",
+    "emotion": "neutral",
+    "confidence": 0.8105687320186742,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:01.181308",
+    "emotion": "neutral",
+    "confidence": 0.8285811770397983,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:01.681240",
+    "emotion": "neutral",
+    "confidence": 0.8490493121186603,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:02.183255",
+    "emotion": "neutral",
+    "confidence": 0.8619920262944769,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:02.684052",
+    "emotion": "neutral",
+    "confidence": 0.8790855614421607,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:03.186569",
+    "emotion": "neutral",
+    "confidence": 0.8882169996493126,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:03.686841",
+    "emotion": "neutral",
+    "confidence": 0.8958209269036017,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:04.185735",
+    "emotion": "neutral",
+    "confidence": 0.9117303113578601,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:04.686177",
+    "emotion": "neutral",
+    "confidence": 0.9242998793080413,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:05.214974",
+    "emotion": "neutral",
+    "confidence": 0.9294284178921541,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:05.726414",
+    "emotion": "neutral",
+    "confidence": 0.9344619148911542,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:06.226456",
+    "emotion": "neutral",
+    "confidence": 0.9473226403585976,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:06.724819",
+    "emotion": "neutral",
+    "confidence": 0.9502884513901606,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:07.226717",
+    "emotion": "neutral",
+    "confidence": 0.9611767215664534,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:07.724711",
+    "emotion": "neutral",
+    "confidence": 0.9634565968387172,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:08.239496",
+    "emotion": "neutral",
+    "confidence": 0.9743294151517687,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:08.761450",
+    "emotion": "neutral",
+    "confidence": 0.9747177491057097,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:09.292120",
+    "emotion": "neutral",
+    "confidence": 0.9760301824448482,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:09.793811",
+    "emotion": "neutral",
+    "confidence": 0.98691455139685,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:10.292710",
+    "emotion": "neutral",
+    "confidence": 0.9858017998261849,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:10.349619",
+    "emotion": "neutral",
+    "confidence": 0.9802162784809836,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:10.796977",
+    "emotion": "neutral",
+    "confidence": 0.9817002221891127,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:11.290041",
+    "emotion": "neutral",
+    "confidence": 0.9830009012271186,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:11.787439",
+    "emotion": "neutral",
+    "confidence": 0.9851474928447219,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:12.250441",
+    "emotion": "neutral",
+    "confidence": 0.9104687550152907,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:12.306314",
+    "emotion": "neutral",
+    "confidence": 0.9168912269332123,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:12.827032",
+    "emotion": "neutral",
+    "confidence": 0.921622088133464,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:13.326137",
+    "emotion": "neutral",
+    "confidence": 0.9262678342199271,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:13.824435",
+    "emotion": "neutral",
+    "confidence": 0.9304736579519928,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:14.324111",
+    "emotion": "neutral",
+    "confidence": 0.9347706828418902,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:14.826335",
+    "emotion": "neutral",
+    "confidence": 0.9237320477275847,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:15.325582",
+    "emotion": "neutral",
+    "confidence": 0.9283836772226534,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:15.830954",
+    "emotion": "neutral",
+    "confidence": 0.9331082642992663,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:16.332957",
+    "emotion": "neutral",
+    "confidence": 0.9373150703256459,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:16.830443",
+    "emotion": "neutral",
+    "confidence": 0.9414060855287253,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:17.343088",
+    "emotion": "neutral",
+    "confidence": 0.9436302294641946,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:17.886131",
+    "emotion": "neutral",
+    "confidence": 0.9407322978420916,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:18.460997",
+    "emotion": "neutral",
+    "confidence": 0.9318760113561683,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:19.041811",
+    "emotion": "neutral",
+    "confidence": 0.9361005605449384,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:19.610549",
+    "emotion": "neutral",
+    "confidence": 0.9395845817807561,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:20.177810",
+    "emotion": "neutral",
+    "confidence": 0.9432852779685483,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:20.738057",
+    "emotion": "neutral",
+    "confidence": 0.9471617750617601,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:21.274440",
+    "emotion": "neutral",
+    "confidence": 0.9494167479800781,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:21.803025",
+    "emotion": "neutral",
+    "confidence": 0.950562911524709,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:22.332073",
+    "emotion": "neutral",
+    "confidence": 0.9361390128768622,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:22.865581",
+    "emotion": "neutral",
+    "confidence": 0.9114308784907064,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:23.363232",
+    "emotion": "neutral",
+    "confidence": 0.9015567125644242,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:23.869401",
+    "emotion": "neutral",
+    "confidence": 0.8980522335662515,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:24.399222",
+    "emotion": "neutral",
+    "confidence": 0.8807476219058054,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:24.905086",
+    "emotion": "neutral",
+    "confidence": 0.8844371758300901,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:25.435690",
+    "emotion": "neutral",
+    "confidence": 0.8924482589480118,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:25.972663",
+    "emotion": "neutral",
+    "confidence": 0.8989244685127247,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:26.505705",
+    "emotion": "neutral",
+    "confidence": 0.905664336247381,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:27.049514",
+    "emotion": "neutral",
+    "confidence": 0.9118377173366763,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:27.571623",
+    "emotion": "neutral",
+    "confidence": 0.9268633031903893,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:28.108369",
+    "emotion": "neutral",
+    "confidence": 0.9299057155066963,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:28.638167",
+    "emotion": "neutral",
+    "confidence": 0.9338936083210255,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:29.166182",
+    "emotion": "neutral",
+    "confidence": 0.9368833695934022,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:29.663205",
+    "emotion": "neutral",
+    "confidence": 0.9308836753356241,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:30.164275",
+    "emotion": "neutral",
+    "confidence": 0.9335900105607347,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:30.665559",
+    "emotion": "neutral",
+    "confidence": 0.9361365502255514,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:31.162554",
+    "emotion": "neutral",
+    "confidence": 0.9393047415694693,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:31.658555",
+    "emotion": "neutral",
+    "confidence": 0.9361990013099851,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:32.133714",
+    "emotion": "neutral",
+    "confidence": 0.9292543849578909,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:32.635658",
+    "emotion": "neutral",
+    "confidence": 0.9321421005202928,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:33.137044",
+    "emotion": "neutral",
+    "confidence": 0.9348036701850817,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:33.194878",
+    "emotion": "neutral",
+    "confidence": 0.8639886059189535,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:33.635915",
+    "emotion": "neutral",
+    "confidence": 0.8745451037003451,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:33.688163",
+    "emotion": "neutral",
+    "confidence": 0.8071923192757672,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:34.136152",
+    "emotion": "neutral",
+    "confidence": 0.8198067115166159,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:34.635682",
+    "emotion": "neutral",
+    "confidence": 0.831806470089619,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:34.691989",
+    "emotion": "neutral",
+    "confidence": 0.767697899219415,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:35.133891",
+    "emotion": "neutral",
+    "confidence": 0.7829659769109869,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:35.192701",
+    "emotion": "neutral",
+    "confidence": 0.7216971595198808,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:35.636190",
+    "emotion": "neutral",
+    "confidence": 0.7409544176191053,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:35.697700",
+    "emotion": "neutral",
+    "confidence": 0.6857591907923114,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:36.132748",
+    "emotion": "neutral",
+    "confidence": 0.706526577740932,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:36.196552",
+    "emotion": "neutral",
+    "confidence": 0.6541013982041461,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:36.637147",
+    "emotion": "neutral",
+    "confidence": 0.6796753349739202,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:36.699309",
+    "emotion": "neutral",
+    "confidence": 0.6263564064582036,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:37.169084",
+    "emotion": "neutral",
+    "confidence": 0.6511228813923633,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:37.234582",
+    "emotion": "neutral",
+    "confidence": 0.5983625961889003,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:37.706546",
+    "emotion": "neutral",
+    "confidence": 0.6248127378380435,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:37.773324",
+    "emotion": "neutral",
+    "confidence": 0.5736784469912792,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:38.242043",
+    "emotion": "neutral",
+    "confidence": 0.6009397096561336,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:38.307365",
+    "emotion": "neutral",
+    "confidence": 0.5517051223630371,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:38.780537",
+    "emotion": "neutral",
+    "confidence": 0.5812969420215522,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:39.308161",
+    "emotion": "neutral",
+    "confidence": 0.6081357363601543,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:39.374644",
+    "emotion": "neutral",
+    "confidence": 0.5598620808727282,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:39.839704",
+    "emotion": "neutral",
+    "confidence": 0.5887240464233272,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:40.345753",
+    "emotion": "neutral",
+    "confidence": 0.6152731431376585,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:40.412213",
+    "emotion": "neutral",
+    "confidence": 0.5650391487775335,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:40.872852",
+    "emotion": "neutral",
+    "confidence": 0.5941651267491024,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:41.379341",
+    "emotion": "neutral",
+    "confidence": 0.6225305901043949,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:41.446898",
+    "emotion": "neutral",
+    "confidence": 0.5727685581916266,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:41.904679",
+    "emotion": "neutral",
+    "confidence": 0.5896799516751783,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:42.408192",
+    "emotion": "neutral",
+    "confidence": 0.6204345185352993,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:42.907419",
+    "emotion": "neutral",
+    "confidence": 0.6376637161823245,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:43.407830",
+    "emotion": "neutral",
+    "confidence": 0.670664175049714,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:43.894028",
+    "emotion": "neutral",
+    "confidence": 0.6575852364874453,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:44.359152",
+    "emotion": "neutral",
+    "confidence": 0.6567993350314679,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:44.831953",
+    "emotion": "neutral",
+    "confidence": 0.6605374089158788,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:44.872667",
+    "emotion": "neutral",
+    "confidence": 0.6069571715427725,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:45.336258",
+    "emotion": "neutral",
+    "confidence": 0.6341870641761336,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:45.798874",
+    "emotion": "neutral",
+    "confidence": 0.6405236967809423,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:46.270197",
+    "emotion": "neutral",
+    "confidence": 0.6667673680162771,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:46.310301",
+    "emotion": "neutral",
+    "confidence": 0.614141354845972,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:46.765626",
+    "emotion": "neutral",
+    "confidence": 0.6423279237066788,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:46.806739",
+    "emotion": "neutral",
+    "confidence": 0.5899978953712023,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:47.270926",
+    "emotion": "neutral",
+    "confidence": 0.6118680466629995,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:47.741410",
+    "emotion": "neutral",
+    "confidence": 0.635233769637117,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:48.204543",
+    "emotion": "neutral",
+    "confidence": 0.66689464242245,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:48.672248",
+    "emotion": "neutral",
+    "confidence": 0.6801917628672307,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:48.714465",
+    "emotion": "neutral",
+    "confidence": 0.634858533522587,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:49.172183",
+    "emotion": "neutral",
+    "confidence": 0.6526972935716853,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:49.644103",
+    "emotion": "neutral",
+    "confidence": 0.6807231125821227,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:50.146436",
+    "emotion": "neutral",
+    "confidence": 0.6993023161824334,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:50.205964",
+    "emotion": "neutral",
+    "confidence": 0.6462062523869477,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:50.650630",
+    "emotion": "neutral",
+    "confidence": 0.6790031340294418,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:50.716075",
+    "emotion": "neutral",
+    "confidence": 0.6244514155700114,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:51.181974",
+    "emotion": "neutral",
+    "confidence": 0.6391017478335217,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:51.249467",
+    "emotion": "neutral",
+    "confidence": 0.5966072050730806,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:51.713760",
+    "emotion": "neutral",
+    "confidence": 0.6229149705425729,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:51.787506",
+    "emotion": "neutral",
+    "confidence": 0.5717875356266436,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:52.252486",
+    "emotion": "neutral",
+    "confidence": 0.6090475276872366,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:52.316577",
+    "emotion": "neutral",
+    "confidence": 0.5604008274850261,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:52.775397",
+    "emotion": "neutral",
+    "confidence": 0.5686635784604749,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:52.839313",
+    "emotion": "neutral",
+    "confidence": 0.5222900165928893,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:53.269543",
+    "emotion": "neutral",
+    "confidence": 0.501631198977288,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:53.339759",
+    "emotion": "neutral",
+    "confidence": 0.4630771639205461,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:53.781157",
+    "emotion": "neutral",
+    "confidence": 0.4972508657499316,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:53.840475",
+    "emotion": "neutral",
+    "confidence": 0.4581699403341803,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:54.284845",
+    "emotion": "neutral",
+    "confidence": 0.5014564908770286,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:54.348840",
+    "emotion": "neutral",
+    "confidence": 0.4595765965206683,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:54.819384",
+    "emotion": "neutral",
+    "confidence": 0.49176017112865594,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:55.317324",
+    "emotion": "neutral",
+    "confidence": 0.5011998113945135,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:55.820052",
+    "emotion": "neutral",
+    "confidence": 0.5427950343508248,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:56.354265",
+    "emotion": "neutral",
+    "confidence": 0.5504040711026198,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:56.842931",
+    "emotion": "neutral",
+    "confidence": 0.5157891731897785,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:57.355904",
+    "emotion": "neutral",
+    "confidence": 0.4930411955932332,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:57.856756",
+    "emotion": "neutral",
+    "confidence": 0.4509842253662594,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:58.371656",
+    "emotion": "neutral",
+    "confidence": 0.4224534328142602,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:58.889712",
+    "emotion": "neutral",
+    "confidence": 0.38582969783225063,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:59.421945",
+    "emotion": "neutral",
+    "confidence": 0.3601257406871352,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:53:59.955068",
+    "emotion": "fear",
+    "confidence": 0.37200200092488545,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:00.487465",
+    "emotion": "fear",
+    "confidence": 0.3569709612649128,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:02.866973",
+    "emotion": "fear",
+    "confidence": 0.3752736329919236,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:03.324014",
+    "emotion": "fear",
+    "confidence": 0.37870755154985264,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:03.859445",
+    "emotion": "fear",
+    "confidence": 0.3536961434031737,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:05.322801",
+    "emotion": "fear",
+    "confidence": 0.3546276919208374,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:06.785302",
+    "emotion": "neutral",
+    "confidence": 0.392122898532486,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:07.285662",
+    "emotion": "neutral",
+    "confidence": 0.43987660145999274,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:07.815778",
+    "emotion": "neutral",
+    "confidence": 0.47556792561397776,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:08.316738",
+    "emotion": "neutral",
+    "confidence": 0.5134697908204192,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:08.815607",
+    "emotion": "neutral",
+    "confidence": 0.5453815379975431,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:08.879095",
+    "emotion": "neutral",
+    "confidence": 0.5024454425595453,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:09.353377",
+    "emotion": "neutral",
+    "confidence": 0.5449592915153129,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:09.862054",
+    "emotion": "neutral",
+    "confidence": 0.5824068225970265,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:09.919375",
+    "emotion": "neutral",
+    "confidence": 0.5438363272408835,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:10.392944",
+    "emotion": "neutral",
+    "confidence": 0.5824188343836351,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:10.448508",
+    "emotion": "neutral",
+    "confidence": 0.5439836968823261,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:10.960681",
+    "emotion": "neutral",
+    "confidence": 0.5761288358305873,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:11.023241",
+    "emotion": "neutral",
+    "confidence": 0.5382096686760773,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:11.495411",
+    "emotion": "neutral",
+    "confidence": 0.5698427354632222,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:11.556768",
+    "emotion": "neutral",
+    "confidence": 0.5339553417478351,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:12.027581",
+    "emotion": "neutral",
+    "confidence": 0.571168117734214,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:12.084559",
+    "emotion": "neutral",
+    "confidence": 0.5335711538484281,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:12.552418",
+    "emotion": "neutral",
+    "confidence": 0.5710404777911069,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:13.055574",
+    "emotion": "neutral",
+    "confidence": 0.6045739433774718,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:13.553363",
+    "emotion": "neutral",
+    "confidence": 0.6373793050070348,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:14.059366",
+    "emotion": "neutral",
+    "confidence": 0.6698259556609665,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:14.561650",
+    "emotion": "neutral",
+    "confidence": 0.6992825384121298,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:15.058601",
+    "emotion": "neutral",
+    "confidence": 0.7277433596384048,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:15.563225",
+    "emotion": "neutral",
+    "confidence": 0.7532395253116443,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:16.057665",
+    "emotion": "neutral",
+    "confidence": 0.7679438948834949,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:16.562065",
+    "emotion": "neutral",
+    "confidence": 0.7849484493503778,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:17.051230",
+    "emotion": "neutral",
+    "confidence": 0.7777862946750586,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:17.518550",
+    "emotion": "neutral",
+    "confidence": 0.7991317576094957,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:17.949349",
+    "emotion": "neutral",
+    "confidence": 0.7364840058921688,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:18.003264",
+    "emotion": "neutral",
+    "confidence": 0.7489554200667848,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:18.047006",
+    "emotion": "neutral",
+    "confidence": 0.6900246413998877,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:18.450943",
+    "emotion": "neutral",
+    "confidence": 0.6347959678783337,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:18.503343",
+    "emotion": "neutral",
+    "confidence": 0.6334242434028451,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:18.542805",
+    "emotion": "neutral",
+    "confidence": 0.5816460542041052,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:18.948193",
+    "emotion": "neutral",
+    "confidence": 0.5334028083218174,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:18.977165",
+    "emotion": "neutral",
+    "confidence": 0.5156327163112588,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:19.016576",
+    "emotion": "neutral",
+    "confidence": 0.47167047576948007,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:19.439175",
+    "emotion": "neutral",
+    "confidence": 0.4708633475412993,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:19.481092",
+    "emotion": "neutral",
+    "confidence": 0.4397257368131579,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:19.921181",
+    "emotion": "neutral",
+    "confidence": 0.46640909854036106,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:19.960565",
+    "emotion": "neutral",
+    "confidence": 0.43534792571500447,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:20.377720",
+    "emotion": "neutral",
+    "confidence": 0.3976962735495372,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:20.427496",
+    "emotion": "neutral",
+    "confidence": 0.4397520619882399,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:20.475812",
+    "emotion": "neutral",
+    "confidence": 0.4040902784749442,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:20.923846",
+    "emotion": "neutral",
+    "confidence": 0.44997337563574924,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:20.971817",
+    "emotion": "neutral",
+    "confidence": 0.4108258910563857,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:21.422436",
+    "emotion": "neutral",
+    "confidence": 0.4572468935144522,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:21.467334",
+    "emotion": "neutral",
+    "confidence": 0.42004383076720136,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:21.926269",
+    "emotion": "neutral",
+    "confidence": 0.4573313404920446,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:21.973154",
+    "emotion": "neutral",
+    "confidence": 0.41893084644457984,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:22.433937",
+    "emotion": "neutral",
+    "confidence": 0.45551218121132686,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:22.487644",
+    "emotion": "neutral",
+    "confidence": 0.4159384405258145,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:22.961700",
+    "emotion": "neutral",
+    "confidence": 0.44509014883299197,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:23.007578",
+    "emotion": "neutral",
+    "confidence": 0.40601781602571735,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:23.457515",
+    "emotion": "neutral",
+    "confidence": 0.3713472063336335,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:23.954330",
+    "emotion": "neutral",
+    "confidence": 0.3932264992085206,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:23.996906",
+    "emotion": "neutral",
+    "confidence": 0.36043456852062794,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:24.452594",
+    "emotion": "neutral",
+    "confidence": 0.39795930958498466,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:24.915565",
+    "emotion": "neutral",
+    "confidence": 0.44275007229716523,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:25.400147",
+    "emotion": "neutral",
+    "confidence": 0.4783950760526516,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:25.939520",
+    "emotion": "neutral",
+    "confidence": 0.5207770432638553,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:25.997431",
+    "emotion": "neutral",
+    "confidence": 0.4861208154415717,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:26.477007",
+    "emotion": "neutral",
+    "confidence": 0.5197744676337334,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:27.001094",
+    "emotion": "neutral",
+    "confidence": 0.5362506270988858,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:27.059952",
+    "emotion": "neutral",
+    "confidence": 0.5011285687567549,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:27.544750",
+    "emotion": "neutral",
+    "confidence": 0.5390943314998942,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:28.071967",
+    "emotion": "neutral",
+    "confidence": 0.5678551285328053,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:28.647868",
+    "emotion": "neutral",
+    "confidence": 0.5946760028559793,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:29.259185",
+    "emotion": "neutral",
+    "confidence": 0.6303367773394658,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:29.884868",
+    "emotion": "neutral",
+    "confidence": 0.6553935644426168,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:29.951769",
+    "emotion": "neutral",
+    "confidence": 0.6117204055399487,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:30.551976",
+    "emotion": "neutral",
+    "confidence": 0.6467064124134805,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:30.616017",
+    "emotion": "neutral",
+    "confidence": 0.595625290322725,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:31.070996",
+    "emotion": "neutral",
+    "confidence": 0.6277456140648588,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:31.128232",
+    "emotion": "neutral",
+    "confidence": 0.583678531165379,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:31.589613",
+    "emotion": "neutral",
+    "confidence": 0.5907474440403107,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:32.090405",
+    "emotion": "neutral",
+    "confidence": 0.5822796885614262,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:32.590111",
+    "emotion": "neutral",
+    "confidence": 0.6114440503560022,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:33.094892",
+    "emotion": "neutral",
+    "confidence": 0.6361185900854776,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:33.595087",
+    "emotion": "neutral",
+    "confidence": 0.6678997371250414,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:34.102385",
+    "emotion": "neutral",
+    "confidence": 0.6890143089389505,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:34.172262",
+    "emotion": "neutral",
+    "confidence": 0.6485567090512392,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:34.645281",
+    "emotion": "neutral",
+    "confidence": 0.6703966414143465,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:35.209981",
+    "emotion": "neutral",
+    "confidence": 0.701877886345629,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:35.777797",
+    "emotion": "neutral",
+    "confidence": 0.7303262204080989,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:35.851825",
+    "emotion": "neutral",
+    "confidence": 0.6748604634539523,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:36.306707",
+    "emotion": "neutral",
+    "confidence": 0.7019533448736591,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:36.372606",
+    "emotion": "neutral",
+    "confidence": 0.6493434650644841,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:36.837724",
+    "emotion": "neutral",
+    "confidence": 0.6108232090443546,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:37.340735",
+    "emotion": "neutral",
+    "confidence": 0.6336849267186075,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:37.837628",
+    "emotion": "neutral",
+    "confidence": 0.6555406718739383,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:38.339579",
+    "emotion": "neutral",
+    "confidence": 0.68667665339433,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:38.839703",
+    "emotion": "neutral",
+    "confidence": 0.7079494703108066,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:38.900568",
+    "emotion": "neutral",
+    "confidence": 0.6559839713518537,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:38.908546",
+    "emotion": "neutral",
+    "confidence": 0.6140556683988254,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:39.374188",
+    "emotion": "neutral",
+    "confidence": 0.6385802188129263,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:39.874640",
+    "emotion": "neutral",
+    "confidence": 0.6624990901560521,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:40.378615",
+    "emotion": "neutral",
+    "confidence": 0.6857540471516284,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:40.921994",
+    "emotion": "neutral",
+    "confidence": 0.7067144744217206,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:41.446107",
+    "emotion": "neutral",
+    "confidence": 0.7251026908404555,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:42.022146",
+    "emotion": "neutral",
+    "confidence": 0.7491425077057203,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:42.540724",
+    "emotion": "neutral",
+    "confidence": 0.7559120443113295,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:43.035411",
+    "emotion": "neutral",
+    "confidence": 0.7540043979364544,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:43.536477",
+    "emotion": "neutral",
+    "confidence": 0.748936879106071,
+    "metadata": {}
+  },
+  {
+    "timestamp": "2026-03-31T15:54:43.587606",
+    "emotion": "neutral",
+    "confidence": 0.6983316053751512,
+    "metadata": {}
+  }
+]
